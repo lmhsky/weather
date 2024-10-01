@@ -38,6 +38,7 @@ import android.widget.Toast;
  * t30al:/ $ input keyevent KEYCODE_BACK
  *
  * app签名:
+ *  alias key0
  *  lmh
  *  lmh123456
  */
